@@ -127,13 +127,19 @@ The Power BI report contains three analytical pages.
 
 Provides a high-level view of transaction performance.
 
+![Executive Overview](screenshots/executive_overview.PNG)
+
 ### Customer Behaviour
 
 Analyses customer transaction activity and segment behaviour.
 
+![Customer Behaviour](screenshots/customer_behaviour.PNG)
+
 ### Transaction Analysis
 
 Analyses transaction channels and category trends over time.
+
+![Transaction Analysis](screenshots/transaction_analysis.PNG)
 
 The dashboard includes interactive slicers for customer segment, channel,
 category and year.
